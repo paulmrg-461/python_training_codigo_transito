@@ -84,3 +84,21 @@ El proyecto utiliza las siguientes librerías de Python:
 - Asegúrate de activar el entorno virtual cada vez que trabajes en el proyecto
 - El archivo `requirements.txt` contiene todas las dependencias necesarias
 - El script está optimizado para extraer artículos y capítulos del Código Nacional de Tránsito
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+
+## Contact
+
+Developed by:
+- Paul Realpe
+- Jimmy Realpe
+
+Email: co.devpaul@gmail.com
+
+Phone: 3148580454
+
+<a href="https://devpaul.pro">https://devpaul.pro/</a>
+
+Feel free to reach out for any inquiries or collaborations!
